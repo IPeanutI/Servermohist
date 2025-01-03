@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.176.33.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735876380573
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735877237653
+  login: 1735875920653
+money: '0'
+last-account-name: mLXPeanutzzz
+lastlocation:
+  world: b6784c33-f933-49a4-ac72-04204c1536f4
+  world-name: DIM-23
+  x: 897.9485593591394
+  y: 86.0
+  z: -553.4656918160578
+  yaw: -94.05108642578125
+  pitch: 3.3000597953796387
+logoutlocation:
+  world: 93def438-bc65-4762-9f31-eee52eb156d5
+  world-name: world
+  x: 847.605381757317
+  y: 64.0
+  z: -164.45873622975733
+  yaw: -12.603179931640625
+  pitch: 25.050174713134766

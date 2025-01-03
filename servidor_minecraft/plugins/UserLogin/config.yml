@@ -16,7 +16,7 @@
 checkUpdates: true
 
 # Language file to use
-lang: 'en_US'
+lang: 'es_ES'
 
 # Broadcast message when a player logs in
 loginBroadcast: true
